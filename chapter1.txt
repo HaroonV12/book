@@ -1,3 +1,0 @@
-﻿this is my msg added by echo
-Hello / just a test
-hello / test from remote main
