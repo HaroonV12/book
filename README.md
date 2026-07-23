@@ -1,2 +1,2 @@
 # book
-This is git recap from my best selling book
+This is git repo for my best selling book
